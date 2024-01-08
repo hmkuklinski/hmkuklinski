@@ -7,16 +7,19 @@ LinkedIn: https://www.linkedin.com/in/hannahkuklinski/
 
 # My Programming and Tools Stack
 
-- HTML5 ![HTML5](https://img.shields.io/badge/HTML5-E34F26)
-- CSS ![CSS](https://img.shields.io/badge/CSS-1572B6)
-- JavaScript ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E)
-- Python ![Python](https://img.shields.io/badge/Python-3776AB)
-- LaTeX ![LaTeX](https://img.shields.io/badge/LaTeX-008080)
-- Java ![Java](https://img.shields.io/badge/Java-007396)
-- Pandas ![Pandas](https://img.shields.io/badge/Pandas-150458)
-- GeoPandas ![GeoPandas](https://img.shields.io/badge/GeoPandas-150458)
-- Jupyter Notebook ![Jupyter](https://img.shields.io/badge/Jupyter-#F37626)
-- Visual Studio Code ![VSCode](https://img.shields.io/badge/VSCode-007ACC)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26)
+![CSS](https://img.shields.io/badge/CSS-1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E)
+![Python](https://img.shields.io/badge/Python-3776AB)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080)
+![Java](https://img.shields.io/badge/Java-007396)
+![Pandas](https://img.shields.io/badge/Pandas-150458)
+![GeoPandas](https://img.shields.io/badge/GeoPandas-150458)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC)
+
+<!-- Add more tools or languages as needed -->
+
 
 <div align="center">
     <a href="http://www.github.com/hmkuklinski"><img width="60%" src="https://github-readme-stats.vercel.app/api?username=hmkuklinski&show_icons=true&hide=&count_private=true&title_color=00FFFF&text_color=ffffff&icon_color=0891b2&bg_color=0D1117&theme=react&hide_border=true&show_icons=true" alt="hmkuklinski's GitHub stats" /></a>
