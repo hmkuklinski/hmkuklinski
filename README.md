@@ -18,6 +18,9 @@ I am currently studying Computer Science at the University of Pittsburgh. I am i
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080)
 ![Java](https://img.shields.io/badge/Java-007396)
 
+# Frameworks:
+[![React](https://img.shields.io/badge/React-16.14.0-blue.svg)](https://reactjs.org/)
+
 
 # Tools and Technology:
 ![Pandas](https://img.shields.io/badge/Pandas-150458)
