@@ -1,7 +1,5 @@
-<img src="https://64.media.tumblr.com/fe54037316f989592f3b39d66541712b/74648fcc80ca642d-cd/s1280x1920/87b8e573fd4e891d2cdc83312d04863d51a5a3a1.jpg" alt="Bread Duck" style="width:100%;">
-
-
-- 👋 Hi, I’m @hmkuklinski
+<img src="https://64.media.tumblr.com/fe54037316f989592f3b39d66541712b/74648fcc80ca642d-cd/s1280x1920/87b8e573fd4e891d2cdc83312d04863d51a5a3a1.jpg" alt="Bread Duck" style="width:100%">
+<img src="https://cdn2.iconfinder.com/data/icons/cute-bread-slice-emoji-in-different-expressions/200/BREAD_22-512.png" alt="bread-icon" style="width: 20px">👋 Hi, I’m @hmkuklinski
 - 👀 I’m interested in software and web development.
 - 🌱 I’m currently learning Korean and Javascript.
 - 💞️ I’m looking to collaborate on awesome projects to develop my skills.
