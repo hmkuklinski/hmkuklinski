@@ -12,7 +12,7 @@ I am currently studying Computer Science at the University of Pittsburgh. I am i
 
 # My Programming Languages:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26)
-![CSS](https://img.shields.io/badge/CSS-1572B6)
+![CSS](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E)
 ![Python](https://img.shields.io/badge/Python-3776AB)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080)
