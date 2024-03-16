@@ -1,3 +1,5 @@
+[![Bread Duck](https://64.media.tumblr.com/fe54037316f989592f3b39d66541712b/74648fcc80ca642d-cd/s1280x1920/87b8e573fd4e891d2cdc83312d04863d51a5a3a1.jpg)]
+
 - 👋 Hi, I’m @hmkuklinski
 - 👀 I’m interested in software and web development.
 - 🌱 I’m currently learning Korean and Javascript.
@@ -42,7 +44,6 @@ I am currently studying Computer Science at the University of Pittsburgh. I am i
 
 [![Hannah's GitHub stats](https://github-readme-stats.vercel.app/api?username=hmkuklinski&show_icons=true&theme=radical)](https://github.com/hmkuklinski/github-readme-stats)
 
-[![Bread](https://cdn2.iconfinder.com/data/icons/cute-bread-slice-emoji-in-different-expressions/200/BREAD_22-512.png)]
 
 # Let's Chat!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hannahkuklinski/)
