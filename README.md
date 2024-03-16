@@ -36,6 +36,12 @@ I am currently studying Computer Science at the University of Pittsburgh. I am i
     <a href="http://www.github.com/hmkuklinski"/><img alt="TYP Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=hmkuklinski&show_icons=true&count_private=true&theme=react&hide_border=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0D1117" width = "100%"/></a>
 </div>
 
+
+#Trying out new themes
+
+
+[![Hannah's GitHub stats](https://github-readme-stats.vercel.app/api?username=hmkuklinski&show_icons=true&theme=radical)](https://github.com/hmkuklinski/github-readme-stats)
+
 # Let's Chat!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hannahkuklinski/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hkuklinski/)
