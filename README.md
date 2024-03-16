@@ -42,6 +42,8 @@ I am currently studying Computer Science at the University of Pittsburgh. I am i
 
 [![Hannah's GitHub stats](https://github-readme-stats.vercel.app/api?username=hmkuklinski&show_icons=true&theme=radical)](https://github.com/hmkuklinski/github-readme-stats)
 
+[![Bread](https://cdn2.iconfinder.com/data/icons/cute-bread-slice-emoji-in-different-expressions/200/BREAD_22-512.png)]
+
 # Let's Chat!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hannahkuklinski/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hkuklinski/)
