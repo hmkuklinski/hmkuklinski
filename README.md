@@ -70,6 +70,26 @@
 
 <!-- Add more social media links as needed -->
 <div align="center">
+  <h2>Codedex #30NitesOfCode</h2>
+    <img src="https://www.codedex.io/images/code-nights/completion.gif">
+</div>
+<h3>What is this?</h3>
+
+<img src="https://cdn2.iconfinder.com/data/icons/cute-bread-slice-emoji-in-different-expressions/200/BREAD_22-512.png" alt="bread-icon" style="width: 20px">   This was a coding challenge introduced by the Codedex team as a way to develop good coding habits! 
+
+<h3>How does this work?</h3>
+
+<img src="https://cdn2.iconfinder.com/data/icons/cute-bread-slice-emoji-in-different-expressions/200/BREAD_22-512.png" alt="bread-icon" style="width: 20px">   The user first starts off with a pet egg of their choosing. The continued participation in this challenge allows the pet to first evolve into a hatchling version. Eventually, the pet is able to transform into a fully grown pet evolution!
+
+<img src="https://cdn2.iconfinder.com/data/icons/cute-bread-slice-emoji-in-different-expressions/200/BREAD_22-512.png" alt="bread-icon" style="width: 20px">  If the user does not participate for more than 2 days in a row, the pet will run away from home and the user is forced to start a new 30 Nites of Code challenge.
+
+<img src="https://cdn2.iconfinder.com/data/icons/cute-bread-slice-emoji-in-different-expressions/200/BREAD_22-512.png" alt="bread-icon" style="width: 20px">   The user is required to make a post either in the OPC or on Twitter to track their progress. The post must include what coding related activities were completed that day (completing a lesson on a Codedex course, watching coding related video, working on a personal project, or doing homework/studying for relevant classwork- just to name a few).
+
+<img src="https://cdn2.iconfinder.com/data/icons/cute-bread-slice-emoji-in-different-expressions/200/BREAD_22-512.png" alt="bread-icon" style="width: 20px">    You are able to see what activities were completed on what day by clicking on the Pet's name and scrolling down to the date's entry. 
+
+<img src="https://cdn2.iconfinder.com/data/icons/cute-bread-slice-emoji-in-different-expressions/200/BREAD_22-512.png" alt="bread-icon" style="width: 20px">   If the user is able to complete 30 Days in a row, there is an option to extend the challenge on a day by day basis!
+</div>
+<div align="center">
   <h2>My Codedex Pets</h2>
   <table>
     <tr>
