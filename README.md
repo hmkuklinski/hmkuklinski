@@ -96,10 +96,15 @@
       <td align="center">
         <img src="https://www.codedex.io/api/petStatus?user=hannahbrianna19" alt="@hannahbrianna19 #30NitesOfCode">
         <br>
-        <a href="https://www.codedex.io/@hannahbrianna19/30-nites-of-code">Connor</a>
+        <a href="https://www.codedex.io/@hannahbrianna19/30-nites-of-code">MsBooBooKitty</a>
       </td>
       <td align="center">
-        <img src="https://www.codedex.io/images/code-nights/evolved-neutral-duck.gif" alt="January">
+        <img src="https://www.codedex.io/images/code-nights/evolved-happy-dinosaur.gif" alt="Connor">
+        <br>
+        <a href="https://www.codedex.io/@hannahbrianna19/30-nites-of-code?pet=jUusaXDLXXllq7esBhUb">Connor</a>
+      </td>
+      <td align="center">
+        <img src="https://www.codedex.io/images/code-nights/evolved-neutral-duck.gif" alt="Quackers">
         <br>
         <a href="https://www.codedex.io/@hannahbrianna19/30-nites-of-code?pet=season-one">Quackers</a>
       </td>
