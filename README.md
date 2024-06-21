@@ -12,9 +12,9 @@
 
 <img src="https://cdn2.iconfinder.com/data/icons/cute-bread-slice-emoji-in-different-expressions/200/BREAD_22-512.png" alt="bread-icon" style="width: 20px">   Hi! My name is Hannah Kuklinski. I am currently studying Computer Science at the University of Pittsburgh. 
 
-<img src="https://cdn2.iconfinder.com/data/icons/cute-bread-slice-emoji-in-different-expressions/200/BREAD_22-512.png" alt="bread-icon" style="width: 20px">    I taught myself HTML/CSS/JavaScript over the summer of 2023 and have been continuing to expand my knowledge ever since. I've recently started to learn React and hope to eventually learn SQL.
+<img src="https://cdn2.iconfinder.com/data/icons/cute-bread-slice-emoji-in-different-expressions/200/BREAD_22-512.png" alt="bread-icon" style="width: 20px">    My favorite language is JavaScript and I love making projects with React, Python, and Java.
 
-<img src="https://cdn2.iconfinder.com/data/icons/cute-bread-slice-emoji-in-different-expressions/200/BREAD_22-512.png" alt="bread-icon" style="width: 20px">   I enjoy making projects to help solidify the concepts I've learned in my classes or through other coding resources I've found online. My most recent project is <a href="https://www.pomodoro-kuklinski.vercel.app/">Focus Hub </a>. Feel free to check it out!
+<img src="https://cdn2.iconfinder.com/data/icons/cute-bread-slice-emoji-in-different-expressions/200/BREAD_22-512.png" alt="bread-icon" style="width: 20px">   I enjoy making projects to help solidify the concepts I've learned in my classes or through other coding resources I've found online. My most recent project is <a href="https://animal-crossing-hmk.vercel.app/">Nook's Notebook </a>. Feel free to check it out!
 
 <img src="https://cdn2.iconfinder.com/data/icons/cute-bread-slice-emoji-in-different-expressions/200/BREAD_22-512.png" alt="bread-icon" style="width: 20px">    In my free time, I enjoy studying foreign languages. I am a self-taught intermediate Korean speaker and I hope to eventually learn Japanese or Mandarin as well. 3년 전에 한국어를 혼자 공부하기 시작했어요 :)
 
