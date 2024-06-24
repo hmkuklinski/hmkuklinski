@@ -104,7 +104,7 @@
         <a href="https://www.codedex.io/@hannahbrianna19/30-nites-of-code?pet=jUusaXDLXXllq7esBhUb">Connor</a>
       </td>
       <td align="center">
-        <img src="https://www.codedex.io/images/code-nights/evolved-neutral-duck.gif" alt="Quackers">
+        <img src="https://www.codedex.io/images/code-nights/evolved-happy-duck.gif" alt="Quackers">
         <br>
         <a href="https://www.codedex.io/@hannahbrianna19/30-nites-of-code?pet=season-one">Quackers</a>
       </td>
