@@ -94,9 +94,9 @@
   <table>
     <tr>
       <td align="center">
-        <img src="https://www.codedex.io/api/petStatus?user=hannahbrianna19" alt="@hannahbrianna19 #30NitesOfCode">
+        <img src="https://www.codedex.io/images/code-nights/evolved-happy-dragon.gif" alt="@hannahbrianna19 #30NitesOfCode">
         <br>
-        <a href="https://www.codedex.io/@hannahbrianna19/30-nites-of-code">MsBooBooKitty</a>
+        <a href="https://www.codedex.io/@hannahbrianna19/30-nites-of-code?pet=ggSQ7bghd7rbJEHOC9Mt">MsBooBooKitty</a>
       </td>
       <td align="center">
         <img src="https://www.codedex.io/images/code-nights/evolved-happy-dinosaur.gif" alt="Connor">
@@ -108,6 +108,13 @@
         <br>
         <a href="https://www.codedex.io/@hannahbrianna19/30-nites-of-code?pet=season-one">Quackers</a>
       </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <img src="https://www.codedex.io/images/code-nights/baby-happy-duck.gif" alt="@hannahbrianna19 #30NitesOfCode">
+            <br>
+            <a href="https://www.codedex.io/@hannahbrianna19/30-nites-of-code?pet=LgAXsv7CZfBZVLc0kifq">Dean</a>
+        </td>
     </tr>
   </table>
 </div>
