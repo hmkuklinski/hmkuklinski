@@ -40,11 +40,13 @@
   <div style="width: 50%;">
     <div align="center">
       <h2>My Programming Stack:</h2>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="Java" alt="HTML" width="40" height="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" title="Java" alt="CSS" width="40" height="40"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="html" alt="HTML" width="40" height="40"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" title="css" alt="CSS" width="40" height="40"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="python" width="40" height="40"/>&nbsp;
+      <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/c/c-plain.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
+      <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/cplusplus/cplusplus-plain.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
     </div>
   </div>
   <div style="width: 50%;">
@@ -55,6 +57,7 @@
       <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Vsc" alt="Vsc" width="40" height="40"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/eclipse/eclipse-original.svg" title="eclipse" alt="Eclipse" width="40" height="40"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
+      <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/ubuntu/ubuntu-plain.svg" title="ubuntu" alt="ubuntu"  width="40" height="40"/>&nbsp;
     </div>
   </div>
 </div>
@@ -93,20 +96,20 @@
   <h2>My Codedex Pets</h2>
   <table>
     <tr>
-      <td align="center">
-        <img src="https://www.codedex.io/images/code-nights/evolved-happy-dragon.gif" alt="@hannahbrianna19 #30NitesOfCode">
+        <td align="center">
+        <img src="https://www.codedex.io/images/code-nights/evolved-happy-duck.gif" alt="Quackers">
         <br>
-        <a href="https://www.codedex.io/@hannahbrianna19/30-nites-of-code?pet=ggSQ7bghd7rbJEHOC9Mt">MsBooBooKitty</a>
+        <a href="https://www.codedex.io/@hannahbrianna19/30-nites-of-code?pet=season-one">Quackers</a>
       </td>
       <td align="center">
         <img src="https://www.codedex.io/images/code-nights/evolved-happy-dinosaur.gif" alt="Connor">
         <br>
         <a href="https://www.codedex.io/@hannahbrianna19/30-nites-of-code?pet=jUusaXDLXXllq7esBhUb">Connor</a>
-      </td>
+      </td>  
       <td align="center">
-        <img src="https://www.codedex.io/images/code-nights/evolved-happy-duck.gif" alt="Quackers">
+        <img src="https://www.codedex.io/images/code-nights/evolved-happy-dragon.gif" alt="@hannahbrianna19 #30NitesOfCode">
         <br>
-        <a href="https://www.codedex.io/@hannahbrianna19/30-nites-of-code?pet=season-one">Quackers</a>
+        <a href="https://www.codedex.io/@hannahbrianna19/30-nites-of-code?pet=ggSQ7bghd7rbJEHOC9Mt">Cas</a>
       </td>
     </tr>
     <tr>
@@ -114,6 +117,11 @@
             <img src="https://www.codedex.io/images/code-nights/baby-happy-duck.gif" alt="@hannahbrianna19 #30NitesOfCode">
             <br>
             <a href="https://www.codedex.io/@hannahbrianna19/30-nites-of-code?pet=LgAXsv7CZfBZVLc0kifq">Dean</a>
+        </td>
+        <td align="center">
+            <img src="https://www.codedex.io/images/code-nights/baby-happy-dinosaur.gif" alt="Domingo">
+            <br>
+            <a href="https://www.codedex.io/@hannahbrianna19/30-nites-of-code?pet=FAcZA5HMpSxSbgsqd833">Domingo</a>
         </td>
     </tr>
   </table>
