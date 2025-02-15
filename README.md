@@ -39,26 +39,28 @@
 <div style="display: flex; flex-wrap: wrap;">
   <div style="width: 50%;">
     <div align="center">
-      <h2>My Programming Stack:</h2>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="html" alt="HTML" width="40" height="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" title="css" alt="CSS" width="40" height="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="python" width="40" height="40"/>&nbsp;
-      <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/c/c-plain.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-      <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/cplusplus/cplusplus-plain.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
-    </div>
-  </div>
-  <div style="width: 50%;">
-    <div align="center">
-      <h2>Frameworks, Tools, and Technology:</h2>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Vsc" alt="Vsc" width="40" height="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/eclipse/eclipse-original.svg" title="eclipse" alt="Eclipse" width="40" height="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
-      <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/ubuntu/ubuntu-plain.svg" title="ubuntu" alt="ubuntu"  width="40" height="40"/>&nbsp;
-    </div>
+      <h2>My Programming Languages, Tools, Frameworks, OS</h2>
+        
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Command Line](https://img.shields.io/badge/Command_Line-000000?style=for-the-badge&logo=linux&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
+    
+</div>
   </div>
 </div>
     
@@ -68,6 +70,21 @@
     <a href="http://www.github.com/hmkuklinski"><img width="60%" src="https://github-readme-stats.vercel.app/api?username=hmkuklinski&show_icons=true&hide=&count_private=true&title_color=00FFFF&text_color=ffffff&icon_color=0891b2&bg_color=0D1117&theme=react&hide_border=true&show_icons=true" alt="hmkuklinski's GitHub stats" /></a>
     <a href="https://github.com/hmkuklinski"><img width="38.25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hmkuklinski&langs_count=12&count_private=true&layout=compact&theme=react&hide=jupyter%20notebook&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=ffffff&icon_color=0891b2&locale=en&custom_title=Top%20%Languages&random=12345" alt="Top Languages" /></a>
     <a href="http://www.github.com/hmkuklinski"/><img alt="TYP Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=hmkuklinski&show_icons=true&count_private=true&theme=react&hide_border=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0D1117" width = "100%"/></a>
+</div>
+
+<div align="center">
+<h2>My Collaborations: </h2>
+
+<a href="https://github.com/jkim644/RecipeVista">
+  <img width="33%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jkim644&repo=RecipeVista" />
+</a>
+<a href="https://github.com/Hyperramana8/Final-Project-0010">
+  <img width="33%"align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hyperramana8&repo=Final-Project-0010" />
+</a>
+<a href="https://github.com/choice404/codedex_holiday_hackathon">
+  <img width="33%"align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=choice404&repo=codedex_holiday_hackathon" />
+</a>
+
 </div>
 
 
