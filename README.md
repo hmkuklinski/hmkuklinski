@@ -14,11 +14,11 @@
 
 <img src="https://cdn2.iconfinder.com/data/icons/cute-bread-slice-emoji-in-different-expressions/200/BREAD_22-512.png" alt="bread-icon" style="width: 20px">    My favorite language is JavaScript and I love making projects with React, Python, and Java.
 
-<img src="https://cdn2.iconfinder.com/data/icons/cute-bread-slice-emoji-in-different-expressions/200/BREAD_22-512.png" alt="bread-icon" style="width: 20px">   I enjoy making projects to help solidify the concepts I've learned in my classes or through other coding resources I've found online. My most recent project is <a href="https://animal-crossing-hmk.vercel.app/">Nook's Notebook </a>. Feel free to check it out!
+<img src="https://cdn2.iconfinder.com/data/icons/cute-bread-slice-emoji-in-different-expressions/200/BREAD_22-512.png" alt="bread-icon" style="width: 20px">   I enjoy making projects to help solidify the concepts I've learned in my classes or through other coding resources I've found online. My most recent project is <a href="https://sampadaacharya.vercel.app/">Sampada's Portfolio </a>. Feel free to check it out!
 
 <img src="https://cdn2.iconfinder.com/data/icons/cute-bread-slice-emoji-in-different-expressions/200/BREAD_22-512.png" alt="bread-icon" style="width: 20px">    In my free time, I enjoy studying foreign languages. I am a self-taught intermediate Korean speaker and I hope to eventually learn Japanese or Mandarin as well. 3년 전에 한국어를 혼자 공부하기 시작했어요 :)
 
-<img src="https://cdn2.iconfinder.com/data/icons/cute-bread-slice-emoji-in-different-expressions/200/BREAD_22-512.png" alt="bread-icon" style="width: 20px">    I’m interested in web development and currently looking for internships.
+<img src="https://cdn2.iconfinder.com/data/icons/cute-bread-slice-emoji-in-different-expressions/200/BREAD_22-512.png" alt="bread-icon" style="width: 20px">    I’m interested in front end development, UI/UX, and full stack development. I'm currently looking for internships.
 
 
 <div align="center">
@@ -116,29 +116,34 @@
         <td align="center">
         <img src="https://www.codedex.io/images/code-nights/evolved-happy-duck.gif" alt="Quackers">
         <br>
-        <a href="https://www.codedex.io/@hannahbrianna19/30-nites-of-code?pet=season-one">Quackers</a>
+        <a href="https://www.codedex.io/@Hannah/30-nites-of-code?pet=season-one">Quackers</a>
       </td>
       <td align="center">
         <img src="https://www.codedex.io/images/code-nights/evolved-happy-dinosaur.gif" alt="Connor">
         <br>
-        <a href="https://www.codedex.io/@hannahbrianna19/30-nites-of-code?pet=jUusaXDLXXllq7esBhUb">Connor</a>
+        <a href="https://www.codedex.io/@Hannah/30-nites-of-code?pet=jUusaXDLXXllq7esBhUb">Connor</a>
       </td>  
       <td align="center">
         <img src="https://www.codedex.io/images/code-nights/evolved-happy-dragon.gif" alt="@hannahbrianna19 #30NitesOfCode">
         <br>
-        <a href="https://www.codedex.io/@hannahbrianna19/30-nites-of-code?pet=ggSQ7bghd7rbJEHOC9Mt">Cas</a>
+        <a href="https://www.codedex.io/@Hannah/30-nites-of-code?pet=ggSQ7bghd7rbJEHOC9Mt">Cas</a>
       </td>
     </tr>
     <tr>
         <td align="center">
             <img src="https://www.codedex.io/images/code-nights/baby-happy-duck.gif" alt="@hannahbrianna19 #30NitesOfCode">
             <br>
-            <a href="https://www.codedex.io/@hannahbrianna19/30-nites-of-code?pet=LgAXsv7CZfBZVLc0kifq">Dean</a>
+            <a href="https://www.codedex.io/@Hannah/30-nites-of-code?pet=LgAXsv7CZfBZVLc0kifq">Dean</a>
         </td>
         <td align="center">
             <img src="https://www.codedex.io/images/code-nights/baby-happy-dinosaur.gif" alt="Domingo">
             <br>
-            <a href="https://www.codedex.io/@hannahbrianna19/30-nites-of-code?pet=FAcZA5HMpSxSbgsqd833">Domingo</a>
+            <a href="https://www.codedex.io/@Hannah/30-nites-of-code?pet=FAcZA5HMpSxSbgsqd833">Domingo</a>
+        </td>
+        <td align="center">
+            <img src="https://www.codedex.io/images/code-nights/baby-happy-dragon.gif" alt="@hannahbrianna19 #30NitesOfCode">
+            <br>
+            <a href="https://www.codedex.io/@Hannah/30-nites-of-code?pet=tcMpc2bBPz5oGnwZFJtq">Butcher</a>
         </td>
     </tr>
   </table>
