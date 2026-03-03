@@ -67,24 +67,28 @@
 
 <div align="center">
     <h2>My Github Stats: </h2>
-    <a href="http://www.github.com/hmkuklinski"><img width="60%" src="https://github-readme-stats.vercel.app/api?username=hmkuklinski&show_icons=true&hide=&count_private=true&title_color=00FFFF&text_color=ffffff&icon_color=0891b2&bg_color=0D1117&theme=react&hide_border=true&show_icons=true" alt="hmkuklinski's GitHub stats" /></a>
-    <a href="https://github.com/hmkuklinski"><img width="38.25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hmkuklinski&langs_count=12&count_private=true&layout=compact&theme=react&hide=jupyter%20notebook&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=ffffff&icon_color=0891b2&locale=en&custom_title=Top%20%Languages&random=12345" alt="Top Languages" /></a>
-    <a href="http://www.github.com/hmkuklinski"/><img alt="TYP Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=hmkuklinski&show_icons=true&count_private=true&theme=react&hide_border=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0D1117" width = "100%"/></a>
+
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=hmkuklinski&show_icons=true&theme=dracula)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=hmkuklinski&theme=dracula)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=hmkuklinski&layout=compact&theme=dracula)
+
 </div>
 
 <div align="center">
 <h2>My Collaborations: </h2>
 
 <a href="https://github.com/jkim644/RecipeVista">
-  <img width="33%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jkim644&repo=RecipeVista" />
+  <img width="33%" align="center"
+       src="https://logos-world.net/wp-content/uploads/2020/11/GitHub-Logo-700x394.png" />
 </a>
 <a href="https://github.com/Hyperramana8/Final-Project-0010">
-  <img width="33%"align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hyperramana8&repo=Final-Project-0010" />
+  <img width="33%" align="center"
+       src="https://logos-world.net/wp-content/uploads/2020/11/GitHub-Logo-700x394.png" />
 </a>
 <a href="https://github.com/choice404/codedex_holiday_hackathon">
-  <img width="33%"align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=choice404&repo=codedex_holiday_hackathon" />
+  <img width="33%" align="center"
+       src="https://logos-world.net/wp-content/uploads/2020/11/GitHub-Logo-700x394.png" />
 </a>
-
 </div>
 
 
