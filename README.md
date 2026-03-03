@@ -77,17 +77,17 @@
 <div align="center">
 <h2>My Collaborations: </h2>
 
-<a href="https://github.com/jkim644/RecipeVista">
-  <img width="33%" align="center"
-       src="https://logos-world.net/wp-content/uploads/2020/11/GitHub-Logo-700x394.png" />
+<a href="https://github.com/jkim644/RecipeVista" >
+  <img width="100px" height="100px" align="center" 
+       src="https://cdn3.iconfinder.com/data/icons/food-pyramid-nutrition/512/fruits-1024.png" />
 </a>
 <a href="https://github.com/Hyperramana8/Final-Project-0010">
-  <img width="33%" align="center"
-       src="https://logos-world.net/wp-content/uploads/2020/11/GitHub-Logo-700x394.png" />
+  <img width="100px" height="100px" align="center"
+       src="https://cdn-icons-png.flaticon.com/256/1683/1683155.png" />
 </a>
 <a href="https://github.com/choice404/codedex_holiday_hackathon">
-  <img width="33%" align="center"
-       src="https://logos-world.net/wp-content/uploads/2020/11/GitHub-Logo-700x394.png" />
+  <img width="100px" height="100px" align="center"
+       src="https://cdn3.iconfinder.com/data/icons/christmas-2208/64/Ornament-1024.png" />
 </a>
 </div>
 
