@@ -18,7 +18,7 @@
 
 <img src="https://cdn2.iconfinder.com/data/icons/cute-bread-slice-emoji-in-different-expressions/200/BREAD_22-512.png" alt="bread-icon" style="width: 20px">    In my free time, I enjoy studying foreign languages. I am a self-taught intermediate Korean speaker and I hope to eventually learn Japanese or Mandarin as well. 3년 전에 한국어를 혼자 공부하기 시작했어요 :)
 
-<img src="https://cdn2.iconfinder.com/data/icons/cute-bread-slice-emoji-in-different-expressions/200/BREAD_22-512.png" alt="bread-icon" style="width: 20px">    I’m interested in front end development, UI/UX, and full stack development. I'm currently looking for internships.
+<img src="https://cdn2.iconfinder.com/data/icons/cute-bread-slice-emoji-in-different-expressions/200/BREAD_22-512.png" alt="bread-icon" style="width: 20px">  I'm currently looking for internships.
 
 
 <div align="center">
@@ -27,7 +27,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hannahkuklinski/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hkuklinski/)
 [![GMail](https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hmkuklinski@gmail.com)
-[![Codedex](https://img.shields.io/badge/-Codedex-yellow?style=for-the-badge)](https://www.codedex.io/@hannahbrianna19)
+[![Codedex](https://img.shields.io/badge/-Codedex-yellow?style=for-the-badge)](https://www.codedex.io/@Hannah)
 
 
 
